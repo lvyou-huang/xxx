@@ -1,0 +1,27 @@
+#include<studio.h>
+int main()
+{
+
+return 0；}
+
+
+int price,amount;可以一次定义两个变量
+printf（“   ”）；输出内容
+printf（“%d”，12+34）；输出运算
+
+change
+scanf("%d",&price)
+
+整数
+int
+printf("%d",...)
+scanf("%d",...)
+小数
+double
+printf("%f",....)
+scanf("%lf",...)
+
+
+c语言的bool类型需要加头文件才能使用
+#include<stdbool.h>
+
